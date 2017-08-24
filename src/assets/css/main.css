@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.theme-btn {
+    border: none;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    width: 35px;
+    height:35px;
+}
+.controls {
+    margin: 0;
+    padding: 10px;
+    position: fixed;
+    top: 30%;
+    width: 175px;
+    border: 1px solid #ddd;
+    background:#fff;
+    z-index:1;
+}
+.controls h2{font-size:14px;font-weight:bold;margin-bottom:5px;}
+.common-title {
+    height: 18px;
+    margin: 20px 0;
+}
+
+.common-title h1 {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    float: left;
+}
+
+h1,
+h2,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    margin-top: 20px;
+}
